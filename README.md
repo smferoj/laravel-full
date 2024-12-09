@@ -8,3 +8,8 @@ Breeze set up
   Seeder 
 => php artisan make:seeder UserTableSeeder
 
+## step -4 
+(AdminController, Usercontroller, AgentController, Role Middleware, Authenticated Session Controller, Route update with role )
+
+## step -5
+=> logout functionality 
