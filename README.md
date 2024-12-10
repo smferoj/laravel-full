@@ -17,3 +17,17 @@ Breeze set up
 ## step -6 
 => login page customize 
 
+## step-6 
+ => Admin Profile create 
+
+
+
+
+ // section 
+ 
+@extends('admin.admin_dashboard')
+@section('admin')
+    
+	
+
+@endsection		
